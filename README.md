@@ -20,11 +20,11 @@ Sobre mim:
   ##
  
 <p align="center"><br> 
-  <a href = "https://www.facebook.com/marcos.andre.351104/" target="_blank"><img align="center" height="30" width="30" src="https://media.discordapp.net/attachments/755967717147672616/886662725802000384/124010.png"       target="_blank"></a> 
-  <a href = "https://www.instagram.com/m_sousa08/" target="_blank"><img align="center" height="40" width="40" src="https://media.discordapp.net/attachments/755967717147672616/886661285947801650/ig-icon-vector-25.jpg"       target="_blank"></a>
-   <a href = "mailto:marcos32andre@gmail.com"><img align="center" height="30" width="30" src="https://cdn.discordapp.com/attachments/755967717147672616/886661727331180585/281769.png" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/marcos-andré-magalhães-de-sousa-filho-06437218b/" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
-   <a href="https://steamcommunity.com/profiles/76561198879666744/" target="_blank"><img align="center" height="40" width="40" src="https://cdn.discordapp.com/attachments/755967717147672616/887029932801273856/Q4zaPtjP3MP7nhXRBqmoa-w5tYU17uCshK6-wpG7WQY_1.png" target="_blank"></a>
+  <a href = "https://www.facebook.com/marcos.andre.351104/" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"       target="_blank"></a> 
+  <a href = "https://www.instagram.com/m_sousa08/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"       target="_blank"></a>
+   <a href = "mailto:marcos32andre@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/marcos-andré-magalhães-de-sousa-filho-06437218b/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://steamcommunity.com/profiles/76561198879666744/" target="_blank"><img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 
    ![Snake animation](https://github.com/marcosandremsfilho/marcosandremsfilho/blob/output/github-contribution-grid-snake.svg)
  

@@ -1,8 +1,9 @@
 ### Olá! Eu sou o Marcos
 
-- 🌱 I’m currently learning C++
-- 👯 I’m looking to collaborate on software developement 
-- 🤔 I’m looking for help with ideias
+Sobre mim:
+ - Atualmente estou cursando engenharia de controle e automação na Universidade Federal de Itajubá 🤓
+ - Técnico em eletrônica com ênfase em automação industrial ⚙
+ - Se quiser chamar para joga um valorant, dota 2 e qualquer outro jogo só chamar ✌
 
 <div>
   <a href="https://github.com/marcosandremsfilho">

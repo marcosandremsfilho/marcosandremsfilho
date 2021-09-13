@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Marcos 👋
 
-Sobre mim:
+#### Sobre mim:
  - Atualmente estou cursando engenharia de controle e automação na Universidade Federal de Itajubá (UNIFEI) 🤓
  - Técnico em eletrônica com ênfase em automação industrial ⚙
  - Se quiser chamar para joga um valorant, dota 2 e qualquer outro jogo só chamar ✌

@@ -10,15 +10,15 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosandremsfilho&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  <div style="display: inline_block"><br>
-   <img align="center" alt="Marcos-Ar" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="Marcos-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Marcos-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <div align="center" style="display: inline_block"><br>
+   <img align="center" alt="Marcos-Ar" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+  <img align="center" alt="Marcos-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Marcos-C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </div>
   
   ##
  
-<div> 
+<div align="center"> 
   <a href = "https://www.facebook.com/marcos.andre.351104/" target="_blank"><img align="center" height="30" width="30" src="https://media.discordapp.net/attachments/755967717147672616/886662725802000384/124010.png"       target="_blank"></a> 
   <a href = "https://www.instagram.com/m_sousa08/" target="_blank"><img align="center" height="40" width="40" src="https://media.discordapp.net/attachments/755967717147672616/886661285947801650/ig-icon-vector-25.jpg"       target="_blank"></a>
    <a href = "mailto:marcos32andre@gmail.com"><img align="center" height="30" width="30" src="https://cdn.discordapp.com/attachments/755967717147672616/886661727331180585/281769.png" target="_blank"></a>

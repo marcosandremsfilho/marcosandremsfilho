@@ -1,4 +1,4 @@
-### Olá! Eu sou o Marcos 👋
+### *Olá! Eu sou o Marcos* 👋
 
 #### Sobre mim:
  - Atualmente estou cursando engenharia de controle e automação na Universidade Federal de Itajubá (UNIFEI) 🤓

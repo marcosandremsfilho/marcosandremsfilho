@@ -3,7 +3,7 @@
 #### Sobre mim:
  - Atualmente estou cursando engenharia de controle e automação na Universidade Federal de Itajubá (UNIFEI) 👨‍💻
  - Técnico em eletrônica com ênfase em automação industrial ⚙
- - Se quiser chamar para joga um valorant, dota 2 e qualquer outro jogo só chamar 🎮
+ - Se quiser chamar para joga um valorant, dota 2 ou qualquer outro jogo só chamar 🎮
  - Estou aceitando dicas de como melhorar meus códigos e ideias ✌
 <div>
   <a href="https://github.com/marcosandremsfilho">

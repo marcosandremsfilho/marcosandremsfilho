@@ -26,8 +26,7 @@
    <a href="https://www.linkedin.com/in/marcos-andré-magalhães-de-sousa-filho-06437218b/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://steamcommunity.com/profiles/76561198879666744/" target="_blank"><img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 
-   ![Snake animation](https://github.com/marcosandremsfilho/marcosandremsfilho/blob/output/github-contribution-grid-snake.svg)
- 
+    
  </div>
 </p>
 

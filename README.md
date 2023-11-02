@@ -5,7 +5,7 @@
  - I'm working as a embedded software engineering intern at PadTec S/A 👜
  - I'm a eletronic technician with emphasis in industrial automation ⚙
  - I'm open to new ideas and tips about how improve my codes! ✌
- - I love play video games, if you want you can add me in steam and call me to play! I'd love it 🎮
+ - I love play video games, if you want you can add me on steam and call me to play! I'd love it 🎮
 ##
 
 <div>

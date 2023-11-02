@@ -1,11 +1,14 @@
-### *Olá! Eu sou o Marcos* 👋
+### *Hi! I'm Marcos* 👋
 
-#### Sobre mim:
- - Atualmente estou cursando engenharia de controle e automação na Universidade Federal de Itajubá (UNIFEI) 👨‍💻
- - Técnico em eletrônica com ênfase em automação industrial ⚙
- - Se quiser chamar para joga um valorant, dota 2 ou qualquer outro jogo só chamar 🎮
- - Estou aceitando dicas de como melhorar meus códigos e ideias ✌
+#### About me:
+ - I'm studying Control and Automation engineering at Federal University of Itajubá (UNIFEI) 👨‍💻
+ - I'm working as a embedded software engineering intern at PadTec S/A 👜
+ - I'm a eletronic technician with emphasis in industrial automation ⚙
+ - I'm open to new ideas and tips about how improve my codes! ✌
+##
+
 <div>
+  <p align="center"><br> 
   <a href="https://github.com/marcosandremsfilho">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=marcosandremsfilho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosandremsfilho&layout=compact&langs_count=7&theme=dark"/>
@@ -32,8 +35,3 @@
 </p>
 
 <p align="center"> 
-
- ## Total de Visitas no perfil <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/marcosandremsfilho/count.svg" />
- </p>

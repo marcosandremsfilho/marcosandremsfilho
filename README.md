@@ -2,7 +2,7 @@
 
 #### About me:
  - I'm studying Control and Automation engineering at Federal University of Itajubá (UNIFEI) 👨‍💻
- - I'm working as a entry-level/junior embedded software engineering at PadTec S/A 👜
+ - I'm working as a Jr. embedded software engineering at PadTec S/A 👜
  - I'm a eletronic technician with emphasis in industrial automation ⚙
  - I'm open to new ideas and tips about how improve my codes! ✌
  - I love play video games, if you want you can add me on steam and call me to play! I'd love it 🎮

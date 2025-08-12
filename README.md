@@ -28,16 +28,21 @@ _Electronic Technician with emphasis on Industrial Automation (2016 – 2018)_ <
 </div>
   
   <div align="center" style="display: inline_block"><br>
-   <img align="center" height="50" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" height="50" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" height="50" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-   <img align="center" height="50" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-   <img align="center" height="50" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
-   <img align="center" height="50" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
-   <img align="center" height="50" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg">
+     <img align="center" height="50" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+     <img align="center" height="50" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+     <img align="center" height="50" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+     <img align="center" height="50" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+     <img align="center" height="50" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
+     <img align="center" height="50" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+     <img align="center" height="50" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg">
 </div>
-  
-  ##
+
+<div align="center" style="display: inline_block"><br>
+   <img align="center" height="50" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
+   <img align="center" height="50" width="130" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Yocto_Project_logo.svg">
+</div>
+
+##
  
 <p align="center"><br> 
    <a href = "mailto:eng.marcosandresousa@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

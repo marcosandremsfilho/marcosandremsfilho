@@ -34,12 +34,12 @@ _Electronic Technician with emphasis on Industrial Automation (2016 – 2018)_ <
      <img align="center" height="50" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
      <img align="center" height="50" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
      <img align="center" height="50" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
-     <img align="center" height="50" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg">
 </div>
 
 <div align="center" style="display: inline_block"><br>
-   <img align="center" height="50" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
+   <img align="center" height="100" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" />
    <img align="center" height="50" width="130" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Yocto_Project_logo.svg">
+   <img align="center" height="50" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
 </div>
 
 ##

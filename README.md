@@ -12,12 +12,14 @@ _B.Sc. in Control and Automation Engineering (2020 – 2024)_ <br>
 __FMC Electronic Technical School (Escola Técnica de Eletrônica "Francisco Moreira da Costa")__ <br>
 _Electronic Technician with emphasis on Industrial Automation (2016 – 2018)_ <br>
 
-#### Skills & Technical Expertise:
-• __Embedded Systems:__ Firmware development, Embedded Linux, Yocto, ARM Cortex-M.<br>
-• __Programming Languages:__ Python, C/C++, Shell Scripting.<br>
-• __Version Control & Collaboration:__ Git (rebasing, branching strategies, CI/CD).<br>
-• __Automation & Testing:__ Process automation, unit testing, and debugging.<br>
-• __PCB Design & Hardware:__ PCB layout, prototyping, and testing.<br>
+#### Technical Skills:
+__Embedded Systems:__ Firmware development, Embedded Linux, Yocto, ARM Cortex-M, IIO subsystem, SPI, I2C, GPIO, TCP/IP, Modbus TCP/IP, MQTT.
+__Programming Languages:__ Python, C/C++, Shell Scripting.
+__Version Control & Collaboration Tools:__ Git, Gerrit, Jenkins, SonarQube.
+__Automation & Testing:__ Process automation, unit testing, debugging, ATS compliance.
+__Hardware Design & Debugging:__ PCB design and layout, schematic reading and development, prototyping, hardware/software debugging, soldering (through-hole and SMD).
+__Tools & Platforms:__ Docker, Ubuntu, Linux CLI, Wireshark, Remmina.
+__Measurement & Instruments:__ Multimeter, oscilloscope.
 ##
 
 <div>
